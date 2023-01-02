@@ -1,4 +1,4 @@
-# 아띠의 상담소
+# 아띠의 고민 상담소
 <div>
  <h2>1. Getting Started</h2>
 ```bash
